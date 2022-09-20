@@ -19,7 +19,8 @@
 [![](https://img.shields.io/badge/Gmail-lorenzcamo23@gmail.com-red)](mailto:lorenzcamo23@gmail.com)
 
 
- 💻 I study two programming languages: 
+ <a href="http://www.cleartax.in"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> I study two programming languages: 
 
 
 
@@ -28,6 +29,4 @@
 
 
 
-<a href src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
