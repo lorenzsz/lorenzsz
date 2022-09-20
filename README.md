@@ -35,7 +35,7 @@
 
 
 
-<h1><img src="https://www.animatedimages.org/img-animated-computer-smiley-image-"0080-72959"
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-computer.gif?1531849430" width=”30"/>
 
 
 
