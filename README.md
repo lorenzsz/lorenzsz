@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I’m+Lorenz+Camo+19+years+old;Aspiring-+Web+Developer;pag+hinde+palarin;kay+Christine+jane+Maitom;na+lang+🤭😚)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 
 
 
-# 💻 I study two programming languages:
+💻 I study two programming languages:
 
 
 
