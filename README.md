@@ -37,4 +37,5 @@ I study two programming languages
 
   
   
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>  
+  <h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px"</h1>
+  
