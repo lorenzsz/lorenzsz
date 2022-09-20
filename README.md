@@ -31,6 +31,6 @@ I study two programming languages
 
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=58AEFF&center=true&multiline=true&width=435&lines=About+me+)](https://git.io/typing-svg)
 
 
