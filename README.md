@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, nice to see you.</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I’m+Lorenz+Camo+19+years+old;Aspiring-+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I’m+Lorenz+Camo+19+years+old;Aspiring-+Web+Developer;kapag+dipalarin+kay;Christine+jane+Maitom)](https://git.io/typing-svg)
 
 
 <img align=”right” alt=”coding” width=”400” src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
