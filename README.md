@@ -34,7 +34,7 @@
 
 
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img align=”right” alt=”coding” width=”400” src=https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 
 
