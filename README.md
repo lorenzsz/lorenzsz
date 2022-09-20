@@ -16,7 +16,7 @@
 
 
 
-[![@lorenz](https://img.shields.io/badge/lorenzCamo-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lorenztulodcamo) [![Instagram](https://img.shields.io/badge/lornzzze-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lornzzze ) 
+[![@lorenz](https://img.shields.io/badge/lorenzCamo-%231877F2.svg?logo=acebook&logoColor=white)](https://facebook.com/lorenztulodcamo) [![Instagram](https://img.shields.io/badge/lornzzze-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lornzzze ) 
 
 
 
