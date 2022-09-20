@@ -12,7 +12,7 @@
 
 <p align=”left”> <img src=https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat alt=”ashutosh-pmishra” /> </p>
 
-🌐 How to reach me:
+<h1><img src="🌐 How to reach me":
 
 
 
