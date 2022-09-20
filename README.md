@@ -28,6 +28,6 @@
 
 
 
-<a href="http://www.cleartax.in">ooo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<a href="http://www.cleartax.in"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
