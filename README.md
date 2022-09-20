@@ -19,8 +19,9 @@
 [![](https://img.shields.io/badge/Gmail-lorenzcamo23@gmail.com-red)](mailto:lorenzcamo23@gmail.com)
 
 
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>I study two programming languages 
+I study two programming languages
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+</em></p>
 
 
 
