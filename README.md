@@ -31,7 +31,7 @@
 
 
 
-<img align=”right”alt=”Coder GIF” height=”250” width=”350”src=https://user-images.cdn.dribbble.com/730703/screenshots/6581243/avento.gif />
+<img align=”right”alt=”Coder GIF” height=”250” width=”350”src=https://user-images.cdn.dribbble.com/730703/6581243/avento.gif />
 
 
 
