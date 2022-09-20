@@ -14,6 +14,8 @@
 
 🌐 How to reach me:
 
+[![](https://img.shields.io/badge/Gmail-lorenzcamo23@gmail.com-red)](mailto:lorenzcamo23@gmail.com)
+
 
 
 [![@lorenz](https://img.shields.io/badge/lorenzCamo-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lorenztulodcamo) [![Instagram](https://img.shields.io/badge/lornzzze-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lornzzze ) 
