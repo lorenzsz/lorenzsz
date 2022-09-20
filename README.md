@@ -1,10 +1,4 @@
-<h1><img src=https://emoji<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Nice to see you.</h1>
-
-
-
-
-
-
+<h1><img src=https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 width=”30”/> Hey, Nice to see you.</h1>
 
 
 
@@ -31,6 +25,21 @@
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
