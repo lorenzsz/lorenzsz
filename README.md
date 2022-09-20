@@ -8,7 +8,6 @@
 <img align=”right” alt=”coding” width=”400” src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 
-
 <p align=”left”> <img src=https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat alt=”ashutosh-pmishra” /> </p>
 
 🌐 How to reach me:
@@ -24,13 +23,13 @@ I study two programming languages
 </em></p>
 
 
-
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=58AEFF&center=true&multiline=true&width=435&lines=About+me+)](https://git.io/typing-svg)
 
+
+
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=58AEFF&center=true&multiline=true&width=435&lines=About+me+)](https://git.io/typing-svg)
 
