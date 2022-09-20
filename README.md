@@ -31,8 +31,9 @@ I study two programming languages
 
 
 
+</a><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+</em></p>
 
 
 
-
-  #&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">  
+ 
