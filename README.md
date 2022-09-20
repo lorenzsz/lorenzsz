@@ -31,7 +31,7 @@ I study two programming languages
 
 
 
-<h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif width="30"/>
+</a><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif width="30"/>
 
 
  
