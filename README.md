@@ -20,9 +20,8 @@
 [![](https://img.shields.io/badge/Gmail-lorenzcamo23@gmail.com-red)](mailto:lorenzcamo23@gmail.com)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=💻+I+Study+two;Programming+language)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=💻+I+Study+two;Programming+language:)](https://git.io/typing-svg)
 
-💻 I study two programming languages:
 
 
 
